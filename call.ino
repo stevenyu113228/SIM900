@@ -1,6 +1,6 @@
 /*
 SIM900撥打電話程式
-BY 游照臨 20160305
+BY StevenYU 20160305
 */
 #include <SoftwareSerial.h>
 //啟用軟序列阜
